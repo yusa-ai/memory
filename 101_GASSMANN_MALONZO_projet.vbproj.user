@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\My Project\PublishProfiles\ClickOnceProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FAccueil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FPartie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

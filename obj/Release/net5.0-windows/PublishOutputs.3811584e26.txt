@@ -1,0 +1,6 @@
+C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\bin\publish\101_GASSMANN_MALONZO_projet.exe
+C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\bin\publish\101_GASSMANN_MALONZO_projet.dll
+C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\bin\publish\101_GASSMANN_MALONZO_projet.deps.json
+C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\bin\publish\101_GASSMANN_MALONZO_projet.runtimeconfig.json
+C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\bin\publish\101_GASSMANN_MALONZO_projet.dll.config
+C:\Users\Ryan\source\repos\101_GASSMANN_MALONZO_projet\101_GASSMANN_MALONZO_projet\bin\publish\101_GASSMANN_MALONZO_projet.pdb

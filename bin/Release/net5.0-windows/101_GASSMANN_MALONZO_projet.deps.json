@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "101_GASSMANN_MALONZO_projet/1.0.0": {
+        "runtime": {
+          "101_GASSMANN_MALONZO_projet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "101_GASSMANN_MALONZO_projet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

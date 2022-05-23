@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbhUA/vsE29Ci5jV0ss+FsEQOROuOHviFtDP8hOETe8gvPQclTCNHCzNT/swdoewDN5gaYgj5/KBQZjSSKaSRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryan\\source\\repos\\101_GASSMANN_MALONZO_projet\\101_GASSMANN_MALONZO_projet\\101_GASSMANN_MALONZO_projet.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.4\\microsoft.netcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
